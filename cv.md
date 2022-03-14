@@ -28,7 +28,7 @@ Brody Pedagogical College 09.2014 – up to present a teacher of Technical Scien
 TECHNICAL SKILLS:
 	Client optimization (csso, svgo, imgo)
 	Adaptive design
-	Strong knowledge of Adobe Photoshop, Adobe Illustrator
+	Strong knowledge o Adobe Photoshop, Adobe Illustrator
 	Validated HTML5
 	BEM/CSS3 via Sass/Less
 	Javascript, jQery
